@@ -41,7 +41,7 @@ const Register = () => {
       body: JSON.stringify(regObj),
     }).then((res) => {
       toast.success('Register successfully!');
-      navigate('/login');
+      navigate('/home');
     }).catch((err) => {
       toast.error('Failed: ' + err.message);
     });

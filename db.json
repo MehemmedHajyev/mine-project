@@ -68,6 +68,16 @@
       "country": "france",
       "adress": "Ehmed Rajabli",
       "gender": "famale"
+    },
+    {
+      "id": "tiduvahy",
+      "name": "Mehemmed Hajiyev",
+      "password": "Pa$$w0rd!",
+      "email": "giky@mailinator.com",
+      "phone": "0775570457",
+      "country": "usa",
+      "adress": "Ehmed Rajabli",
+      "gender": "male"
     }
   ]
 }

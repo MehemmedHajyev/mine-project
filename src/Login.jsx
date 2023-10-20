@@ -23,7 +23,7 @@ const Login = () => {
           } else {
             if (resp.password === password) {
               toast.success('Login successful.');
-              navigate('/');
+              navigate('/home');
             } else {
               toast.error('Invalid credentials. Please try again.');
             }
