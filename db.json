@@ -1,0 +1,73 @@
+{
+  "user": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": "kyzajeroj",
+      "name": "banybi",
+      "password": "Pa$$w0rd!",
+      "email": "xagenovy@mailinator.com",
+      "phone": "819",
+      "country": "france",
+      "adress": "Voluptatum qui dolor",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "adress": "",
+      "gender": "famale"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "adress": "",
+      "gender": "famale"
+    },
+    {
+      "id": "kycat",
+      "name": "symic",
+      "password": "Pa$$w0rd!",
+      "email": "fyruzo@mailinator.com",
+      "phone": "653",
+      "country": "france",
+      "adress": "Libero nemo nesciunt",
+      "gender": "male"
+    },
+    {
+      "id": "tohuxirat",
+      "name": "capycafyc",
+      "password": "Pa$$w0rd!",
+      "email": "hafuzuc@mailinator.com",
+      "phone": "76",
+      "country": "baku",
+      "adress": "Quo porro est liber",
+      "gender": "male"
+    },
+    {
+      "id": "mehemmed",
+      "name": "Haciyev Mehemmed",
+      "password": "123",
+      "email": "maqamed883@gmail.com",
+      "phone": "0775570457",
+      "country": "france",
+      "adress": "Ehmed Rajabli",
+      "gender": "famale"
+    }
+  ]
+}
